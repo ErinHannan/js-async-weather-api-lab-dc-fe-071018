@@ -63,7 +63,10 @@ function fetchFiveDayForecast(city) {
   console.log("city.temp:", city.temp);
   console.log("city.temp.low:", city.temp.low);
   console.log("city.temp.high:", city.temp.high);
+  console.log("city.humidity:", city.humidity);
   console.log("city.cloudCover:", city.cloudCover);
+  console.log("city.sunrise:", city.sunrise);
+  console.log("city.sunset:", city.sunset);
   
 
   
