@@ -60,7 +60,11 @@ function fetchFiveDayForecast(city) {
   //fetch five day forecast data based on city
   
   console.log("city:", city);
-  console.log("city.")
+  console.log("city.temp:", city.temp);
+  console.log("city.temp.low:", city.temp.low);
+  console.log("city.temp.high:", city.temp.high);
+  console.log("city.cloudCover:", city.cloudCover);
+  
 
   
   
