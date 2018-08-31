@@ -59,7 +59,8 @@ function displayCurrentWeather(weatherJson) {
 function fetchFiveDayForecast(city) {
   //fetch five day forecast data based on city
   
-  
+  console.log("city:", city);
+  console.log("city.")
 
   
   
